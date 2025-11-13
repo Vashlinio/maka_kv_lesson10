@@ -1,0 +1,17 @@
+/* 1439-769px  */
+ @media (max-width: 1300px){
+  /* container */
+.container {
+    padding-left: 24px;
+}
+.header-nav {
+display: none;
+}
+.header-button {
+    display: block;
+}
+
+} 
+@media (max-width:880px) {
+
+}

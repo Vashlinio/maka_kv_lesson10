@@ -1,0 +1,24 @@
+/*  1439px-876px */
+@media (max-width: 1300px) {
+ /* header */
+header {
+    padding-left: 64px;   
+}
+.header-div {
+    padding-right: 223px;
+}
+.header-button {
+    padding-right: 64px;
+}
+.section1-title {
+}
+}
+@media (max-width: 1299px) {
+   /* header */
+header {
+    padding: 24px;   
+}
+.header-button {
+    display: none;
+}
+}
